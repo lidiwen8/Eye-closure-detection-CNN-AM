@@ -1,0 +1,151 @@
+Epoch 00001: val_acc improved from -inf to 0.68660, saving model to models\2021_09_29_15_19_58.h5
+Epoch 1/50
+137/137 [==============================] - 4s 26ms/step - loss: 0.6747 - acc: 0.5480 - val_loss: 0.6317 - val_acc: 0.6866
+Epoch 00001: val_acc improved from -inf to 0.68660, saving model to models\2021_09_29_15_19_58.h5
+Epoch 2/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.6289 - acc: 0.6455 - val_loss: 0.6454 - val_acc: 0.6206
+Epoch 00002: val_acc did not improve from 0.68660
+Epoch 3/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.6129 - acc: 0.6618 - val_loss: 0.5404 - val_acc: 0.7381
+Epoch 00003: val_acc improved from 0.68660 to 0.73814, saving model to models\2021_09_29_15_19_58.h5
+Epoch 4/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.5446 - acc: 0.7170 - val_loss: 0.4641 - val_acc: 0.7938
+Epoch 00004: val_acc improved from 0.73814 to 0.79381, saving model to models\2021_09_29_15_19_58.h5
+Epoch 5/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.4315 - acc: 0.8030 - val_loss: 0.3333 - val_acc: 0.8784
+Epoch 00005: val_acc improved from 0.79381 to 0.87835, saving model to models\2021_09_29_15_19_58.h5
+Epoch 6/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.3437 - acc: 0.8606 - val_loss: 0.3102 - val_acc: 0.8804
+Epoch 00006: val_acc improved from 0.87835 to 0.88041, saving model to models\2021_09_29_15_19_58.h5
+Epoch 7/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.2747 - acc: 0.8911 - val_loss: 0.2081 - val_acc: 0.9402
+Epoch 00007: val_acc improved from 0.88041 to 0.94021, saving model to models\2021_09_29_15_19_58.h5
+Epoch 8/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.2360 - acc: 0.9080 - val_loss: 0.1872 - val_acc: 0.9381
+Epoch 00008: val_acc did not improve from 0.94021
+Epoch 9/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.2252 - acc: 0.9172 - val_loss: 0.1663 - val_acc: 0.9464
+Epoch 00009: val_acc improved from 0.94021 to 0.94639, saving model to models\2021_09_29_15_19_58.h5
+Epoch 10/50
+137/137 [==============================] - 4s 29ms/step - loss: 0.1905 - acc: 0.9269 - val_loss: 0.1507 - val_acc: 0.9402
+Epoch 00010: val_acc did not improve from 0.94639
+Epoch 11/50
+137/137 [==============================] - 4s 28ms/step - loss: 0.1725 - acc: 0.9360 - val_loss: 0.1445 - val_acc: 0.9526
+Epoch 00011: val_acc improved from 0.94639 to 0.95258, saving model to models\2021_09_29_15_19_58.h5
+Epoch 12/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1713 - acc: 0.9388 - val_loss: 0.1546 - val_acc: 0.9320
+Epoch 00012: val_acc did not improve from 0.95258
+Epoch 13/50
+137/137 [==============================] - 4s 32ms/step - loss: 0.1608 - acc: 0.9372 - val_loss: 0.1539 - val_acc: 0.9340
+Epoch 00013: val_acc did not improve from 0.95258
+Epoch 14/50
+137/137 [==============================] - 5s 35ms/step - loss: 0.1691 - acc: 0.9374 - val_loss: 0.1237 - val_acc: 0.9567
+Epoch 00014: val_acc improved from 0.95258 to 0.95670, saving model to models\2021_09_29_15_19_58.h5
+Epoch 15/50
+137/137 [==============================] - 5s 35ms/step - loss: 0.1651 - acc: 0.9376 - val_loss: 0.1509 - val_acc: 0.9423
+Epoch 00015: val_acc did not improve from 0.95670
+Epoch 16/50
+137/137 [==============================] - 4s 28ms/step - loss: 0.1411 - acc: 0.9459 - val_loss: 0.1116 - val_acc: 0.9608
+Epoch 00016: val_acc improved from 0.95670 to 0.96082, saving model to models\2021_09_29_15_19_58.h5
+Epoch 17/50
+137/137 [==============================] - 4s 28ms/step - loss: 0.1428 - acc: 0.9470 - val_loss: 0.1389 - val_acc: 0.9485
+Epoch 00017: val_acc did not improve from 0.96082
+Epoch 18/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.1444 - acc: 0.9440 - val_loss: 0.1109 - val_acc: 0.9546
+Epoch 00018: val_acc did not improve from 0.96082
+Epoch 19/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1476 - acc: 0.9424 - val_loss: 0.1195 - val_acc: 0.9526
+Epoch 00019: val_acc did not improve from 0.96082
+Epoch 20/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1373 - acc: 0.9505 - val_loss: 0.1138 - val_acc: 0.9567
+Epoch 00020: val_acc did not improve from 0.96082
+Epoch 21/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1295 - acc: 0.9512 - val_loss: 0.0961 - val_acc: 0.9546
+Epoch 00021: val_acc did not improve from 0.96082
+Epoch 22/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1459 - acc: 0.9418 - val_loss: 0.1017 - val_acc: 0.9629
+Epoch 00022: val_acc improved from 0.96082 to 0.96289, saving model to models\2021_09_29_15_19_58.h5
+Epoch 23/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1241 - acc: 0.9521 - val_loss: 0.1090 - val_acc: 0.9546
+Epoch 00023: val_acc did not improve from 0.96289
+Epoch 24/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1249 - acc: 0.9525 - val_loss: 0.1077 - val_acc: 0.9546
+Epoch 00024: val_acc did not improve from 0.96289
+Epoch 25/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.1256 - acc: 0.9512 - val_loss: 0.0987 - val_acc: 0.9567
+Epoch 00025: val_acc did not improve from 0.96289
+Epoch 26/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1180 - acc: 0.9541 - val_loss: 0.1042 - val_acc: 0.9546
+Epoch 00026: val_acc did not improve from 0.96289
+Epoch 27/50
+137/137 [==============================] - 4s 26ms/step - loss: 0.1154 - acc: 0.9553 - val_loss: 0.1249 - val_acc: 0.9464
+Epoch 00027: val_acc did not improve from 0.96289
+Epoch 28/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.1207 - acc: 0.9553 - val_loss: 0.1019 - val_acc: 0.9588
+Epoch 00028: val_acc did not improve from 0.96289
+Epoch 29/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1168 - acc: 0.9551 - val_loss: 0.1164 - val_acc: 0.9526
+Epoch 00029: val_acc did not improve from 0.96289
+Epoch 30/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1083 - acc: 0.9578 - val_loss: 0.0999 - val_acc: 0.9546
+Epoch 00030: val_acc did not improve from 0.96289
+Epoch 31/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1042 - acc: 0.9590 - val_loss: 0.1330 - val_acc: 0.9485
+Epoch 00031: val_acc did not improve from 0.96289
+Epoch 32/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.1103 - acc: 0.9580 - val_loss: 0.0941 - val_acc: 0.9588
+Epoch 00032: val_acc did not improve from 0.96289
+Epoch 00032: ReduceLROnPlateau reducing learning rate to 0.00020000000949949026.
+Epoch 33/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0949 - acc: 0.9663 - val_loss: 0.0846 - val_acc: 0.9608
+Epoch 00033: val_acc did not improve from 0.96289
+Epoch 34/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.0914 - acc: 0.9649 - val_loss: 0.0812 - val_acc: 0.9649
+Epoch 00034: val_acc improved from 0.96289 to 0.96495, saving model to models\2021_09_29_15_19_58.h5
+Epoch 35/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.0827 - acc: 0.9693 - val_loss: 0.0830 - val_acc: 0.9649
+Epoch 00035: val_acc did not improve from 0.96495
+Epoch 36/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.0856 - acc: 0.9681 - val_loss: 0.0880 - val_acc: 0.9608
+Epoch 00036: val_acc did not improve from 0.96495
+Epoch 37/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0856 - acc: 0.9688 - val_loss: 0.0846 - val_acc: 0.9649
+Epoch 00037: val_acc did not improve from 0.96495
+Epoch 38/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0860 - acc: 0.9656 - val_loss: 0.0774 - val_acc: 0.9629
+Epoch 00038: val_acc did not improve from 0.96495
+Epoch 39/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0837 - acc: 0.9665 - val_loss: 0.0812 - val_acc: 0.9691
+Epoch 00039: val_acc improved from 0.96495 to 0.96907, saving model to models\2021_09_29_15_19_58.h5
+Epoch 40/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0769 - acc: 0.9725 - val_loss: 0.0887 - val_acc: 0.9608
+Epoch 00040: val_acc did not improve from 0.96907
+Epoch 41/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0842 - acc: 0.9702 - val_loss: 0.0789 - val_acc: 0.9608
+Epoch 00041: val_acc did not improve from 0.96907
+Epoch 42/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0811 - acc: 0.9702 - val_loss: 0.0912 - val_acc: 0.9608
+Epoch 00042: val_acc did not improve from 0.96907
+Epoch 43/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0825 - acc: 0.9665 - val_loss: 0.0761 - val_acc: 0.9670
+Epoch 00043: val_acc did not improve from 0.96907
+Epoch 44/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.0789 - acc: 0.9718 - val_loss: 0.0839 - val_acc: 0.9649
+Epoch 00044: val_acc did not improve from 0.96907
+Epoch 45/50
+137/137 [==============================] - 4s 26ms/step - loss: 0.0805 - acc: 0.9674 - val_loss: 0.1014 - val_acc: 0.9505
+Epoch 00045: val_acc did not improve from 0.96907
+Epoch 46/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0789 - acc: 0.9709 - val_loss: 0.0938 - val_acc: 0.9567
+Epoch 00046: val_acc did not improve from 0.96907
+Epoch 47/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0815 - acc: 0.9695 - val_loss: 0.0788 - val_acc: 0.9670
+Epoch 00047: val_acc did not improve from 0.96907
+Epoch 48/50
+137/137 [==============================] - 3s 25ms/step - loss: 0.0749 - acc: 0.9727 - val_loss: 0.0810 - val_acc: 0.9711
+Epoch 00048: val_acc improved from 0.96907 to 0.97113, saving model to models\2021_09_29_15_19_58.h5
+Epoch 49/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0766 - acc: 0.9709 - val_loss: 0.0778 - val_acc: 0.9711
+Epoch 00049: val_acc did not improve from 0.97113
+Epoch 50/50
+137/137 [==============================] - 3s 24ms/step - loss: 0.0759 - acc: 0.9716 - val_loss: 0.0775 - val_acc: 0.9711
