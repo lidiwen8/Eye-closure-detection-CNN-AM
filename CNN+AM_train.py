@@ -103,14 +103,10 @@ def train():
 
     # 精度计算
     from sklearn.metrics import accuracy_score
-
     model = load_model('models/%s.h5' % start_time)
-
     y_pred = model.predict(x_val/255.)
     y_pred_logical = (y_pred > 0.5).astype(np.int)
-
     print('test acc: %s' % accuracy_score(y_val, y_pred_logical))
-
 
 
 if __name__ == '__main__':

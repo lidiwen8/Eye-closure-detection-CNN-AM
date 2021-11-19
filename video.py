@@ -81,7 +81,7 @@ def eye_state():
                 COUNTER += 1
                 print(COUNTER)
                 if COUNTER >= 50:
-                    cv2.putText(img, "You Died", (230, 250),
+                    cv2.putText(img, "You Sleep", (230, 250),
                                 cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 7)
             else:
                 COUNTER = 0
